@@ -1,0 +1,44 @@
+2023-12-22 17:46:47,386  INFO [main] nopCommerceSDET:63 - ************* Launching Browser *****************
+2023-12-22 17:46:47,451  INFO [main] nopCommerceSDET:69 - ************* Opening URL  *****************
+2023-12-22 17:46:52,661  INFO [main] nopCommerceSDET:76 - ************* Prvding user and password *****************
+2023-12-22 17:46:53,050  INFO [main] nopCommerceSDET:83 - ************* click on login *****************
+2023-12-22 17:50:08,325  INFO [main] nopCommerceSDET:63 - ************* Launching Browser *****************
+2023-12-22 17:50:08,375  INFO [main] nopCommerceSDET:69 - ************* Opening URL  *****************
+2023-12-22 17:50:11,294  INFO [main] nopCommerceSDET:76 - ************* Prvding user and password *****************
+2023-12-22 17:50:11,642  INFO [main] nopCommerceSDET:83 - ************* click on login *****************
+2023-12-22 17:50:17,174  INFO [main] nopCommerceSDET:98 - ************* Login Passed *****************
+2023-12-22 17:50:20,203  INFO [main] nopCommerceSDET:107 - ************* clciking on logout *****************
+2023-12-22 17:50:24,856  INFO [main] nopCommerceSDET:98 - ************* Login Passed *****************
+2023-12-22 17:50:27,883  INFO [main] nopCommerceSDET:114 - ************* cloding browser *****************
+2023-12-22 18:18:26,165  INFO [main] nopCommerceSDET:63 - ************* Launching Browser *****************
+2023-12-22 18:18:26,201  INFO [main] nopCommerceSDET:69 - ************* Opening URL  *****************
+2023-12-22 18:18:31,746  INFO [main] nopCommerceSDET:76 - ************* Prvding user and password *****************
+2023-12-22 18:18:32,363  INFO [main] nopCommerceSDET:83 - ************* click on login *****************
+2023-12-22 18:18:38,743  INFO [main] nopCommerceSDET:98 - ************* Login Passed *****************
+2023-12-22 18:18:41,771  INFO [main] nopCommerceSDET:107 - ************* clciking on logout *****************
+2023-12-22 18:18:46,732  INFO [main] nopCommerceSDET:98 - ************* Login Passed *****************
+2023-12-22 18:18:49,784  INFO [main] nopCommerceSDET:114 - ************* cloding browser *****************
+2023-12-22 18:22:47,768  INFO [main] BDD_Cecumber:63 - ************* Launching Browser *****************
+2023-12-22 18:22:47,859  INFO [main] BDD_Cecumber:69 - ************* Opening URL  *****************
+2023-12-22 18:22:52,435  INFO [main] BDD_Cecumber:76 - ************* Prvding user and password *****************
+2023-12-22 18:22:52,996  INFO [main] BDD_Cecumber:83 - ************* click on login *****************
+2023-12-22 18:22:58,803  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-22 18:23:01,832  INFO [main] BDD_Cecumber:107 - ************* clciking on logout *****************
+2023-12-22 18:23:07,358  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-22 18:23:10,407  INFO [main] BDD_Cecumber:114 - ************* cloding browser *****************
+2023-12-26 12:27:58,837  INFO [main] BDD_Cecumber:63 - ************* Launching Browser *****************
+2023-12-26 12:27:58,947  INFO [main] BDD_Cecumber:69 - ************* Opening URL  *****************
+2023-12-26 12:28:01,114  INFO [main] BDD_Cecumber:76 - ************* Prvding user and password *****************
+2023-12-26 12:28:02,513  INFO [main] BDD_Cecumber:83 - ************* click on login *****************
+2023-12-26 12:28:07,120  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-26 12:28:10,150  INFO [main] BDD_Cecumber:107 - ************* clciking on logout *****************
+2023-12-26 12:28:14,661  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-26 12:28:17,682  INFO [main] BDD_Cecumber:114 - ************* cloding browser *****************
+2023-12-26 15:06:15,973  INFO [main] BDD_Cecumber:63 - ************* Launching Browser *****************
+2023-12-26 15:06:16,040  INFO [main] BDD_Cecumber:69 - ************* Opening URL  *****************
+2023-12-26 15:06:22,832  INFO [main] BDD_Cecumber:76 - ************* Prvding user and password *****************
+2023-12-26 15:06:23,400  INFO [main] BDD_Cecumber:83 - ************* click on login *****************
+2023-12-26 15:06:28,495  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-26 15:06:31,526  INFO [main] BDD_Cecumber:107 - ************* clciking on logout *****************
+2023-12-26 15:06:36,520  INFO [main] BDD_Cecumber:98 - ************* Login Passed *****************
+2023-12-26 15:06:39,543  INFO [main] BDD_Cecumber:114 - ************* cloding browser *****************
