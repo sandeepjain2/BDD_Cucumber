@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: 
+MySelfHostedAgent
 
 steps:
 - task: Maven@3
